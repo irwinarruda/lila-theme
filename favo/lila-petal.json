@@ -1,0 +1,17 @@
+{
+  "name": "Lila Petal",
+  "appearance": "light",
+  "colors": {
+    "background": "#F9F9FB",
+    "panel": "#F2F1F5",
+    "selection": "#E3DEFF",
+    "border": "#D5D5DB",
+    "accent": "#7A58CE",
+    "accentBright": "#6B45BE",
+    "text": "#212128",
+    "muted": "#615F69",
+    "faint": "#8A8890",
+    "success": "#3E8200",
+    "danger": "#C51D28"
+  }
+}

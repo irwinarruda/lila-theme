@@ -1,0 +1,17 @@
+{
+  "name": "Lila Dusk",
+  "appearance": "dark",
+  "colors": {
+    "background": "#0E0D11",
+    "panel": "#16151A",
+    "selection": "#322A4C",
+    "border": "#313137",
+    "accent": "#AF97FF",
+    "accentBright": "#C6B8FF",
+    "text": "#EDECF2",
+    "muted": "#A7A4AF",
+    "faint": "#6B6B74",
+    "success": "#7EC259",
+    "danger": "#F45959"
+  }
+}

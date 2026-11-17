@@ -1,0 +1,22 @@
+{
+  "name": "lila-theme",
+  "displayName": "Lila",
+  "description": "Lilac: Lila Dusk for the dark and Lila Petal for the light, with the contrast to read code all day.",
+  "version": "0.1.0",
+  "publisher": "irwinarruda",
+  "license": "MIT",
+  "icon": "icon.png",
+  "galleryBanner": { "color": "#0E0D11", "theme": "dark" },
+  "repository": { "type": "git", "url": "https://github.com/irwinarruda/lila-theme" },
+  "homepage": "https://github.com/irwinarruda/lila-theme#readme",
+  "bugs": { "url": "https://github.com/irwinarruda/lila-theme/issues" },
+  "engines": { "vscode": "^1.70.0" },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "light", "lilac", "purple", "violet", "flower"],
+  "contributes": {
+    "themes": [
+      { "id": "lila-dusk", "label": "Lila Dusk", "uiTheme": "vs-dark", "path": "./themes/lila-dusk.json" },
+      { "id": "lila-petal", "label": "Lila Petal", "uiTheme": "vs", "path": "./themes/lila-petal.json" }
+    ]
+  }
+}
